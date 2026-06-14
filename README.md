@@ -1,16 +1,20 @@
-## Hi there 👋
+Software Engineering Student | Aspiring Software Quality Engineer | Web Development Enthusiast
 
-<!--
-**Demargherite/Demargherite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about creating reliable, user-friendly, and high-quality software solutions. I have a growing interest in Software Quality Assurance (SQA), Software Testing, Project Management, and Web Development. Through academic and personal projects, I continuously develop my technical skills while applying industry practices such as version control, quality management, and collaborative development.
 
-Here are some ideas to get you started:
+🔹 Interested in Software Quality & Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Experience with GitHub, Trello, and Software Documentation
+
+🔹 Focused on Continuous Learning and Professional Growth
+
+🔹 Open to Internship and Entry-Level Opportunities
+
+Tech Stack
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
+Database: MySQL
+Tools: Git, GitHub, Trello, VS Code
+Fun Fact
+
+I believe that great software is not just about making things work — it's about making them reliable, maintainable, and valuable for users.
